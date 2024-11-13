@@ -7,7 +7,6 @@ function findMax(numbers) {
       max = numbers[i];  
     }
   }
-
   return max;
   }
 

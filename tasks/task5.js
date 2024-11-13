@@ -9,7 +9,6 @@ function countOccurrences(str, char) {
       count++;  
     }
   }
-
   return count;
   }
 

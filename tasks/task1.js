@@ -13,7 +13,6 @@ function replaceVowels(str) {
       result += str[i];  
     }
   }
-
   return result;
   }
 

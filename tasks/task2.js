@@ -8,7 +8,6 @@ function reverseWithoutNumbers(str) {
       result += str[i];
     }
   }
-
   return result.split('').reverse().join('');
   }
 
